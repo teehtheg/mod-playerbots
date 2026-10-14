@@ -666,7 +666,10 @@ Playerbots.BotCheats = "food,taxi,raid"
 # - 10445, The Vials of Eternity
 # Black Temple
 # - 10985, A Distraction for Akama
-Playerbots.AttunementQuests = 10279,10277,10282,10283,10284,10285,10296,10297,10298,11481,11482,11488,11490,11492,10901,10888,10445,10985
+# Dungeon Finder for Death Knights (the core locks every LFG dungeon for a DK without one of these)
+# - 13188, Where Kings Walk (Alliance)
+# - 13189, Warchief's Blessing (Horde)
+Playerbots.AttunementQuests = 10279,10277,10282,10283,10284,10285,10296,10297,10298,11481,11482,11488,11490,11492,10901,10888,10445,10985,13188,13189
 
 #
 #
